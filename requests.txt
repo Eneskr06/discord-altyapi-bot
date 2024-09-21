@@ -1,2 +1,1 @@
-music
 start www.google.com
