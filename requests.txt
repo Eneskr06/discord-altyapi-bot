@@ -1,1 +1,1 @@
-voice
+xdg-open https://youtu.be/mzieIMxgESY?feature=shared
