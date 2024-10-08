@@ -1,1 +1,1 @@
-xdg-open www.google.com
+xdg-start www.google.com
