@@ -1,1 +1,1 @@
-xdg-open https://www.google.com
+xdg-open https://youtu.be/KVzhwZpgAgY?si=t28pA_0DSwVgdXLZ
