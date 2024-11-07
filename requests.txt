@@ -1,1 +1,1 @@
-xdg-open https://www.youtube.com/@EyupB
+xdg-open https://www.youtube.com/@EyupB/videos
