@@ -1,1 +1,1 @@
-xdg-open https://youtu.be/Yey7tvFg_w8?si=Z2lRhiermGSkvrdY
+sudo ekilit
